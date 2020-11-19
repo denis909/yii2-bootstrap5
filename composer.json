@@ -1,0 +1,12 @@
+{
+    "name": "denis909/yii2-bootstrap5",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "denis909\\bootstrap5\\" : ""
+        }
+    },
+    "require": {
+        "twbs/bootstrap": "*"
+    }
+}
